@@ -17,7 +17,7 @@ Sebuah web sederhana yang mengimplementasikan 3 cipher kriptografi: **Vigenere C
 ## Instalasi
 
 ### Prasyarat
-- Python 3.x
+- Python 3.6
 - Flask (untuk framework web)
 
 1. **Clone repository**:
